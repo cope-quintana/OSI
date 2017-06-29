@@ -1,1 +1,1 @@
-First Commin by Cope :v
+First Commit by Cope :v
